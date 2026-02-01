@@ -30,22 +30,6 @@ I’m passionate about transforming raw data into clear, actionable insights tha
 
 ---
 
-## 📊 Featured Projects
-
-### 🌾 Sri Lanka Rice Production Forecasting & Analytics
-- End-to-end analytics project using 20+ years of agricultural data  
-- Data cleaning, SQLite database design, machine learning forecasting  
-- Interactive Power BI dashboards for executive insights  
-🔗 https://github.com/visurarodrigo/sl_rice_forecasting
-
-### 🏬 Superstore Sales & Revenue Performance Dashboard
-- Business Intelligence solution for retail performance analysis  
-- Star schema modeling, advanced DAX, and YoY KPI tracking  
-- Interactive dashboards for data-driven decisions  
-🔗 https://github.com/visurarodrigo/Superstore-Sales-Performance-Dashboard
-
----
-
 ## 📜 Certifications
 - Data Science Professional Certificate – **IBM**  
 - Power BI Data Analyst Professional Certificate – **Microsoft**  
