@@ -44,11 +44,6 @@ I’m passionate about transforming raw data into clear, actionable insights tha
 - Interactive dashboards for data-driven decisions  
 🔗 https://github.com/visurarodrigo/Superstore-Sales-Performance-Dashboard
 
-### 🗄️ Little Lemon MySQL Portfolio Project
-- Designed and implemented a relational database for a restaurant system  
-- Focused on schema design, relationships, and practical SQL queries  
-🔗 https://github.com/visurarodrigo/little-lemon-mysql-portfolio-project
-
 ---
 
 ## 📜 Certifications
