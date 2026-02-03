@@ -49,6 +49,7 @@ I enjoy working on projects that combine **technical depth with real-world busin
 
 ## 📫 Let’s Connect
 - 💼 LinkedIn: https://www.linkedin.com/in/visurarodrigo  
-- 🧑‍💻 GitHub: https://github.com/visurarodrigo  
+- 🧑‍💻 GitHub: https://github.com/visurarodrigo
+- ✉ Kaggle : https://www.kaggle.com/visurarodrigo
 
 ⭐ Feel free to explore my repositories and projects!
