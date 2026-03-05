@@ -50,9 +50,9 @@ I enjoy solving analytical problems that combine **technical data skills with re
 
 ## 📈 GitHub Stats
 
-![Visura's GitHub stats](https://github-readme-stats.vercel.app/api?username=visurarodrigo&show_icons=true&theme=default)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=visurarodrigo&show_icons=true&theme=github_dark)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visurarodrigo&layout=compact)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visurarodrigo&layout=compact&theme=github_dark)
 
 ---
 
