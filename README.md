@@ -3,7 +3,7 @@
 🎓 **Data Science & Business Analytics Undergraduate**  
 General Sir John Kotelawala Defence University (KDU), Sri Lanka  
 
-I’m passionate about transforming **raw data into meaningful insights** that support **data-driven decision making**. My interests lie at the intersection of **Data Analytics, Business Intelligence, and Database Systems**, backed by hands-on project experience and continuous learning.
+I’m passionate about transforming **raw data into meaningful insights** that support **data-driven decision making**. My interests focus on **Data Analytics, Business Intelligence, and Database Systems**, supported by hands-on learning and continuous skill development.
 
 ---
 
@@ -14,7 +14,7 @@ I’m passionate about transforming **raw data into meaningful insights** that s
 ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat&logo=database&logoColor=white)
 ![R](https://img.shields.io/badge/R-276DC3?style=flat&logo=r&logoColor=white)
 
-### 📊 Analytics & BI
+### 📊 Analytics & Business Intelligence
 ![Power BI](https://img.shields.io/badge/Power_BI-F2C811?style=flat&logo=powerbi&logoColor=black)
 ![DAX](https://img.shields.io/badge/DAX-512BD4?style=flat&logo=microsoft&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
@@ -31,10 +31,10 @@ I’m passionate about transforming **raw data into meaningful insights** that s
 ---
 
 ## 📜 Certifications
-- Data Science Professional Certificate — **IBM**  
-- Power BI Data Analyst Professional Certificate — **Microsoft**  
-- Database Structures and Management with MySQL — **Meta**  
-- SQL for Data Science — **University of California, Davis**
+- **Data Science Professional Certificate** — IBM  
+- **Power BI Data Analyst Professional Certificate** — Microsoft  
+- **Database Structures and Management with MySQL** — Meta  
+- **SQL for Data Science** — University of California, Davis  
 
 ---
 
@@ -44,17 +44,11 @@ I’m passionate about transforming **raw data into meaningful insights** that s
 - Data Analytics & Forecasting  
 - Data-Driven Decision Support Systems  
 
-I enjoy solving analytical problems that combine **technical data skills with real-world business context**, and I continuously improve through **hands-on learning and practical projects**.
+I enjoy solving analytical problems that combine **technical data skills with real-world business context**, and I continuously improve through **practical projects and ongoing learning**.
 
 ---
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=visurarodrigo&show_icons=true&theme=github_dark&cache_seconds=1800)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visurarodrigo&layout=compact&theme=github_dark&cache_seconds=1800)
-
----
-
-## 📫 Let’s Connect
+## 📫 Connect With Me
 💼 LinkedIn: https://www.linkedin.com/in/visurarodrigo  
 🧑‍💻 GitHub: https://github.com/visurarodrigo  
 📊 Kaggle: https://www.kaggle.com/visurarodrigo  
