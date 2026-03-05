@@ -1,9 +1,9 @@
-# Hi, I’m Visura Rodrigo 👋  
+# Hi, I’m Visura Rodrigo 👋
 
-🎓 **Data Science & Business Analytics Undergraduate** at  
-**General Sir John Kotelawala Defence University (KDU)**  
+🎓 **Data Science & Business Analytics Undergraduate**  
+General Sir John Kotelawala Defence University (KDU), Sri Lanka  
 
-I’m passionate about transforming raw data into clear, actionable insights that support data-driven decision-making. My interests lie at the intersection of **Data Analytics, Business Intelligence, and Database Systems**, backed by hands-on project experience.
+I’m passionate about transforming **raw data into meaningful insights** that support **data-driven decision making**. My interests lie at the intersection of **Data Analytics, Business Intelligence, and Database Systems**, backed by hands-on project experience and continuous learning.
 
 ---
 
@@ -31,25 +31,34 @@ I’m passionate about transforming raw data into clear, actionable insights tha
 ---
 
 ## 📜 Certifications
-- Data Science Professional Certificate – **IBM**  
-- Power BI Data Analyst Professional Certificate – **Microsoft**  
-- Database Structures and Management with MySQL – **Meta**  
-- SQL for Data Science – **University of California, Davis**
+- Data Science Professional Certificate — **IBM**  
+- Power BI Data Analyst Professional Certificate — **Microsoft**  
+- Database Structures and Management with MySQL — **Meta**  
+- SQL for Data Science — **University of California, Davis**
 
 ---
 
 ## 🎯 Career Interests
-- Data Analyst / Business Intelligence Analyst  
+- Data Analyst  
+- Business Intelligence Analyst  
 - Data Analytics & Forecasting  
 - Data-Driven Decision Support Systems  
 
-I enjoy working on projects that combine **technical depth with real-world business context** and continuously improving through hands-on problem solving.
+I enjoy solving analytical problems that combine **technical data skills with real-world business context**, and I continuously improve through **hands-on learning and practical projects**.
+
+---
+
+## 📈 GitHub Stats
+
+![Visura's GitHub stats](https://github-readme-stats.vercel.app/api?username=visurarodrigo&show_icons=true&theme=default)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=visurarodrigo&layout=compact)
 
 ---
 
 ## 📫 Let’s Connect
-- 💼 LinkedIn: https://www.linkedin.com/in/visurarodrigo  
-- 🧑‍💻 GitHub: https://github.com/visurarodrigo
-- ✉ Kaggle : https://www.kaggle.com/visurarodrigo
+💼 LinkedIn: https://www.linkedin.com/in/visurarodrigo  
+🧑‍💻 GitHub: https://github.com/visurarodrigo  
+📊 Kaggle: https://www.kaggle.com/visurarodrigo  
 
-⭐ Feel free to explore my repositories and projects!
+⭐ Feel free to explore my repositories and connect!
