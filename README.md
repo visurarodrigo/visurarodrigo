@@ -39,12 +39,6 @@ My academic journey combines **statistics, computational methods, and modern dat
 
 ---
 
-# 📊 GitHub Stats
-
-![Visura's GitHub stats](https://github-readme-stats.vercel.app/api?username=visurarodrigo&show_icons=true&theme=default)
-
----
-
 # 📈 Most Used Languages
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visurarodrigo&layout=compact)
@@ -60,22 +54,6 @@ My academic journey combines **statistics, computational methods, and modern dat
 # 📊 Activity Graph
 
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=visurarodrigo)
-
----
-
-# 🎓 Education
-
-**BSc (Hons) – Data Science & Business Analytics**  
-General Sir John Kotelawala Defence University  
-2024 – 2028
-
-Relevant areas of study include:
-
-• Data Science  
-• Business Analytics  
-• Statistics  
-• Computational Mathematics  
-• Software Engineering Fundamentals  
 
 ---
 
