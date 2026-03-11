@@ -39,17 +39,12 @@ My academic journey combines **statistics, computational methods, and modern dat
 
 ---
 
-# 📈 Most Used Languages
+## 📊 GitHub Activity
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visurarodrigo&layout=compact)
-
----
-
-# 🔥 Contribution Streak
-
-![GitHub Streak](https://streak-stats.demolab.com?user=visurarodrigo)
-
----
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=visurarodrigo&layout=compact" height="170"/>
+  <img src="https://streak-stats.demolab.com?user=visurarodrigo" height="170"/>
+</p>
 
 # 📊 Activity Graph
 
