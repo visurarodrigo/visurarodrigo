@@ -1,13 +1,17 @@
-# Hi, I’m Visura Rodrigo 👋
+# Hi, I'm Visura Rodrigo 👋
+
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?size=24&color=36BCF7&lines=Data+Science+Student;Data+Analytics+Enthusiast;Machine+Learning+Learner)](https://git.io/typing-svg)
 
 🎓 **Data Science & Business Analytics Undergraduate**  
 General Sir John Kotelawala Defence University (KDU), Sri Lanka  
 
-I’m passionate about transforming **raw data into meaningful insights** that support **data-driven decision making**. My interests focus on **Data Analytics, Business Intelligence, and Database Systems**, supported by hands-on learning and continuous skill development.
+I am passionate about transforming **raw data into meaningful insights** that support **data-driven decision making**. My interests lie in **Data Analytics, Machine Learning, Business Intelligence, and Data Systems**, and I enjoy exploring real-world datasets to uncover patterns and insights.
+
+My academic journey combines **statistics, computational methods, and modern data technologies** to solve analytical problems and build data-driven solutions.
 
 ---
 
-## 🔧 Tech Stack & Tools
+# 🔧 Tech Stack & Tools
 
 ### 🧠 Programming & Data
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat&logo=python&logoColor=white)
@@ -19,38 +23,94 @@ I’m passionate about transforming **raw data into meaningful insights** that s
 ![DAX](https://img.shields.io/badge/DAX-512BD4?style=flat&logo=microsoft&logoColor=white)
 ![Excel](https://img.shields.io/badge/Excel-217346?style=flat&logo=microsoft-excel&logoColor=white)
 
+### 🤖 Data Science & Machine Learning
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
+![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
 
-### 🛠️ Tools
+### 🛠️ Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
+![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
 ---
 
-## 📜 Certifications
-- **Data Science Professional Certificate** — IBM  
-- **Power BI Data Analyst Professional Certificate** — Microsoft  
-- **Database Structures and Management with MySQL** — Meta  
-- **SQL for Data Science** — University of California, Davis  
+# 📊 GitHub Stats
+
+![Visura's GitHub stats](https://github-readme-stats.vercel.app/api?username=visurarodrigo&show_icons=true&theme=default)
 
 ---
 
-## 🎯 Career Interests
-- Data Analyst  
-- Business Intelligence Analyst  
-- Data Analytics & Forecasting  
-- Data-Driven Decision Support Systems  
+# 📈 Most Used Languages
 
-I enjoy solving analytical problems that combine **technical data skills with real-world business context**, and I continuously improve through **practical projects and ongoing learning**.
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=visurarodrigo&layout=compact)
 
 ---
 
-## 📫 Connect With Me
-💼 LinkedIn: https://www.linkedin.com/in/visurarodrigo  
-🧑‍💻 GitHub: https://github.com/visurarodrigo  
-📊 Kaggle: https://www.kaggle.com/visurarodrigo  
+# 🔥 Contribution Streak
+
+![GitHub Streak](https://streak-stats.demolab.com?user=visurarodrigo)
+
+---
+
+# 📊 Activity Graph
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=visurarodrigo)
+
+---
+
+# 🎓 Education
+
+**BSc (Hons) – Data Science & Business Analytics**  
+General Sir John Kotelawala Defence University  
+2024 – 2028
+
+Relevant areas of study include:
+
+• Data Science  
+• Business Analytics  
+• Statistics  
+• Computational Mathematics  
+• Software Engineering Fundamentals  
+
+---
+
+# 📜 Certifications
+
+• **IBM Data Science Professional Certificate** — IBM  
+• **Microsoft Power BI Data Analyst Professional Certificate** — Microsoft  
+• **Database Structures and Management with MySQL** — Meta  
+• **SQL for Data Science** — University of California, Davis  
+
+---
+
+# 🤝 Professional Memberships
+
+• Student Member — IEEE Student Branch Kotelawala Defence University  
+• Student Member — BCS Student Chapter - Kotelawala Defence University  
+
+---
+
+# 🎯 Career Interests
+
+• Data Analytics  
+• Business Intelligence  
+• Machine Learning  
+• Data Engineering  
+• Data-Driven Decision Support Systems  
+
+---
+
+# 📫 Connect With Me
+
+💼 LinkedIn  
+https://www.linkedin.com/in/visurarodrigo  
+
+📊 Kaggle  
+https://www.kaggle.com/visurarodrigo  
 
 ⭐ Feel free to explore my repositories and connect!
