@@ -46,8 +46,6 @@ My academic journey combines **statistics, computational methods, and modern dat
   <img src="https://streak-stats.demolab.com?user=visurarodrigo" height="170"/>
 </p>
 
-## 📊 Activity Graph
-
 ![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=visurarodrigo)
 
 ---
