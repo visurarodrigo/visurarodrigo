@@ -58,6 +58,7 @@ My academic journey combines **statistics, computational methods, and modern dat
 • **Microsoft Power BI Data Analyst Professional Certificate** — Microsoft  
 • **Database Structures and Management with MySQL** — Meta  
 • **SQL for Data Science** — University of California, Davis  
+• **Machine Learning Specialization** — Deeplearning.ai  
 
 ---
 
