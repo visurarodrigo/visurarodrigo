@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile;Data+Science+Student+from+Sri+Lanka;Data+Analytics+%7C+Machine+Learning+%7C+BI;Always+Learning+New+Things" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile;Data+Science+Student+from+Sri+Lanka;Data+Analytics+%7C+Machine+Learning+%7C+BI;Building+End-to-End+ML+Systems" />
 </p>
 
 ## Hi, I'm Visura Rodrigo 👋
@@ -7,9 +7,9 @@
 🎓 **Data Science & Business Analytics Undergraduate**  
 General Sir John Kotelawala Defence University (KDU), Sri Lanka  
 
-I am passionate about transforming **raw data into meaningful insights** that support **data-driven decision making**. My interests lie in **Data Analytics, Machine Learning, Business Intelligence, and Data Systems**, and I enjoy exploring real-world datasets to uncover patterns and insights.
+I am passionate about transforming **raw data into meaningful insights** and building **end-to-end data-driven systems**. My interests lie in **Data Analytics, Machine Learning, Business Intelligence, and Data Engineering**, and I enjoy working on real-world projects that combine data, models, and applications.
 
-My academic journey combines **statistics, computational methods, and modern data technologies** to solve analytical problems and build data-driven solutions.
+My academic journey combines **statistics, computational methods, and modern data technologies** to solve analytical problems and develop scalable solutions.
 
 ---
 
@@ -28,14 +28,17 @@ My academic journey combines **statistics, computational methods, and modern dat
 ### 🤖 Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat&logo=sqlite&logoColor=white)
+![DuckDB](https://img.shields.io/badge/DuckDB-FFF000?style=flat&logo=duckdb&logoColor=black)
 
 ### 🛠️ Tools & Platforms
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -75,6 +78,7 @@ My academic journey combines **statistics, computational methods, and modern dat
 • Business Intelligence  
 • Machine Learning  
 • Data Engineering  
+• End-to-End ML Systems  
 • Data-Driven Decision Support Systems  
 
 ---
