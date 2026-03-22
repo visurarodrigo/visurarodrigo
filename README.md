@@ -72,17 +72,6 @@ My academic journey combines **statistics, computational methods, and modern dat
 
 ---
 
-# 🎯 Career Interests
-
-• Data Analytics  
-• Business Intelligence  
-• Machine Learning  
-• Data Engineering  
-• End-to-End ML Systems  
-• Data-Driven Decision Support Systems  
-
----
-
 # 📫 Connect With Me
 
 💼 LinkedIn  
