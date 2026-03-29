@@ -71,5 +71,3 @@ https://www.kaggle.com/visurarodrigo
 
 ⭐ Feel free to explore my repositories and connect!
 
-
-upddate this github readme, in modern way
