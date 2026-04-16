@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile;Data+Science+Student+from+Sri+Lanka;Data+Analytics+%7C+Machine+Learning+%7C+BI;Building+End-to-End+ML+Systems" />
+<img src="https://readme-typing-svg.herokuapp.com?size=28&duration=3000&color=00C2FF&center=true&vCenter=true&width=750&lines=Welcome+to+My+GitHub+Profile;Data+Science+Student+from+Sri+Lanka;Data+Analytics+%7C+Machine+Learning+%7C+Business+Intelligence;Building+End-to-End+Data+Systems" />
 </p>
 
 ## Hi, I'm Visura Rodrigo 👋
@@ -7,9 +7,9 @@
 🎓 **Data Science & Business Analytics Undergraduate**  
 General Sir John Kotelawala Defence University (KDU), Sri Lanka  
 
-I am passionate about transforming **raw data into meaningful insights** and building **end-to-end data-driven systems**. My interests lie in **Data Analytics, Machine Learning, Business Intelligence, and Data Engineering**, and I enjoy working on real-world projects that combine data, models, and applications.
+I am passionate about transforming **raw data into meaningful insights** and building **end-to-end data-driven systems**. My interests span **Data Analytics, Machine Learning, Business Intelligence, and Data Engineering**, with a focus on applying these areas through practical, real-world projects.
 
-My academic journey combines **statistics, computational methods, and modern data technologies** to solve analytical problems and develop scalable solutions.
+My academic journey combines **statistical thinking, computational methods, and modern data technologies** to solve analytical problems and develop scalable solutions.
 
 ---
 
@@ -50,14 +50,14 @@ My academic journey combines **statistics, computational methods, and modern dat
 • **Microsoft Power BI Data Analyst Professional Certificate** — Microsoft  
 • **Database Structures and Management with MySQL** — Meta  
 • **SQL for Data Science** — University of California, Davis  
-• **Machine Learning Specialization** — Deeplearning.ai  
+• **Machine Learning Specialization** — DeepLearning.AI  
 
 ---
 
 # 🤝 Professional Memberships
 
-• Student Member — IEEE Student Branch Kotelawala Defence University  
-• Student Member — BCS Student Chapter - Kotelawala Defence University  
+• Student Member — IEEE Student Branch, Kotelawala Defence University  
+• Student Member — BCS Student Chapter, Kotelawala Defence University  
 
 ---
 
@@ -70,4 +70,3 @@ https://www.linkedin.com/in/visurarodrigo
 https://www.kaggle.com/visurarodrigo  
 
 ⭐ Feel free to explore my repositories and connect!
-
