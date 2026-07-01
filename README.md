@@ -58,6 +58,8 @@ My academic journey combines **statistical thinking, computational methods, and 
 
 • **Excel Basics for Data Analysis** - IBM
 
+• **Sequences, Time Series and Prediction specialization** - DeepLearning.AI
+
 ---
 
 # 🤝 Professional Memberships
