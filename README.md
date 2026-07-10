@@ -7,7 +7,7 @@
 🎓 **Data Science & Business Analytics Undergraduate**  
 General Sir John Kotelawala Defence University (KDU), Sri Lanka  
 
-I am passionate about transforming **raw data into meaningful insights** and building **end-to-end data-driven systems**. My interests span **Data Analytics, Machine Learning, Business Intelligence, and Data Engineering**, with a focus on applying these areas through practical, real-world projects.
+I am passionate about transforming **raw data into meaningful insights** and building **end-to-end data-driven systems**. My interests span **Data Analytics, Data Science, Machine Learning, Business Intelligence, and Data Engineering**, with a focus on applying these areas through practical, real-world projects.
 
 My academic journey combines **statistical thinking, computational methods, and modern data technologies** to solve analytical problems and develop scalable solutions.
 
@@ -28,6 +28,7 @@ My academic journey combines **statistical thinking, computational methods, and 
 ### 🤖 Data Science & Machine Learning
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat&logo=pandas&logoColor=white)
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat&logo=scikit-learn&logoColor=white)
+![XGBoost](https://img.shields.io/badge/XGBoost-006ACC?style=flat&logo=xgboost&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 
 ### 🗄️ Databases
@@ -39,6 +40,7 @@ My academic journey combines **statistical thinking, computational methods, and 
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat&logo=jupyter&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat&logo=streamlit&logoColor=white)
 ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
 
@@ -46,19 +48,13 @@ My academic journey combines **statistical thinking, computational methods, and 
 
 # 📜 Certifications
 
-• **IBM Data Science Professional Certificate** — IBM  
-
-• **Microsoft Power BI Data Analyst Professional Certificate** — Microsoft  
-
-• **Database Structures and Management with MySQL** — Meta  
-
-• **SQL for Data Science** — University of California, Davis  
-
-• **Machine Learning Specialization** — DeepLearning.AI 
-
-• **Excel Basics for Data Analysis** - IBM
-
-• **Sequences, Time Series and Prediction specialization** - DeepLearning.AI
+- **IBM Data Science Professional Certificate** — IBM
+- **Machine Learning Specialization** — DeepLearning.AI
+- **Sequences, Time Series and Prediction Specialization** — DeepLearning.AI
+- **Microsoft Power BI Data Analyst Professional Certificate** — Microsoft
+- **SQL for Data Science** — University of California, Davis
+- **Database Structures and Management with MySQL** — Meta
+- **Excel Basics for Data Analysis** — IBM
 
 ---
 
@@ -71,10 +67,7 @@ My academic journey combines **statistical thinking, computational methods, and 
 
 # 📫 Connect With Me
 
-💼 LinkedIn  
-https://www.linkedin.com/in/visurarodrigo  
-
-📊 Kaggle  
-https://www.kaggle.com/visurarodrigo  
+💼 **LinkedIn** → [linkedin.com/in/visurarodrigo](https://www.linkedin.com/in/visurarodrigo)
+📊 **Kaggle** → [kaggle.com/visurarodrigo](https://www.kaggle.com/visurarodrigo) 
 
 ⭐ Feel free to explore my repositories and connect!
