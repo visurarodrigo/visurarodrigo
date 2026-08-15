@@ -48,13 +48,14 @@ My academic journey combines **statistical thinking, computational methods, and 
 
 # 📜 Certifications
 
-- **IBM Data Science Professional Certificate** — IBM
-- **Machine Learning Specialization** — DeepLearning.AI
-- **Sequences, Time Series and Prediction Specialization** — DeepLearning.AI
-- **Microsoft Power BI Data Analyst Professional Certificate** — Microsoft
-- **SQL for Data Science** — University of California, Davis
-- **Database Structures and Management with MySQL** — Meta
-- **Excel Basics for Data Analysis** — IBM
+- **IBM Data Science Professional Certificate** - IBM
+- **Machine Learning Specialization** - DeepLearning.AI
+- **Natural Language Processing** - Deeplearning.AI
+- **Sequences, Time Series and Prediction Specialization** - DeepLearning.AI
+- **Microsoft Power BI Data Analyst Professional Certificate** - Microsoft
+- **SQL for Data Science** - University of California, Davis
+- **Database Structures and Management with MySQL** - Meta
+- **Excel Basics for Data Analysis** - IBM
 
 ---
 
