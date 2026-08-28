@@ -61,14 +61,14 @@ My academic journey combines **statistical thinking, computational methods, and 
 
 # 🤝 Professional Memberships
 
-• Student Member — IEEE Student Branch, Kotelawala Defence University  
-• Student Member — BCS Student Chapter, Kotelawala Defence University  
+• Student Member - IEEE Student Branch, Kotelawala Defence University  
+• Student Member - BCS Student Chapter, Kotelawala Defence University  
 
 ---
 
 # 📫 Connect With Me
 
-💼 **LinkedIn** → [linkedin.com/in/visurarodrigo](https://www.linkedin.com/in/visurarodrigo)
-📊 **Kaggle** → [kaggle.com/visurarodrigo](https://www.kaggle.com/visurarodrigo) 
+- 💼 **LinkedIn** → [linkedin.com/in/visurarodrigo](www.linkedin.com/in/visura-rodrigo-6aa98527a)
+- 📊 **Kaggle** → [kaggle.com/visurarodrigo](https://www.kaggle.com/visurarodrigo) 
 
 ⭐ Feel free to explore my repositories and connect!
