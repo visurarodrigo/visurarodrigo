@@ -57,6 +57,10 @@ My academic journey combines **statistical thinking, computational methods, and 
 - **Database Structures and Management with MySQL** - Meta
 - **Excel Basics for Data Analysis** - IBM
 
+### Short Courses
+
+- ChatGPT Prompt Engineering for Developers
+
 ---
 
 # 🤝 Professional Memberships
