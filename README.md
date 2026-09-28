@@ -60,6 +60,7 @@ My academic journey combines **statistical thinking, computational methods, and 
 ### Short Courses
 
 - **ChatGPT Prompt Engineering for Developers** - DeepLearning.AI
+- **Building Systems with the ChatGPT API** - DeepLearning.AI
 
 ---
 
