@@ -46,16 +46,16 @@ My academic journey combines **statistical thinking, computational methods, and 
 
 ---
 
-# 📜 Certifications
+# 📜 Courses 
 
-### Specializations certificates 
+### Specializations Courses 
 
 - **IBM Data Science Professional Certificate** - IBM
 - **Machine Learning Specialization** - DeepLearning.AI
 - **Natural Language Processing** - Deeplearning.AI
 - **Microsoft Power BI Data Analyst Professional Certificate** - Microsoft
 
-### Other Certificates 
+### Other Courses 
 
 - **Sequences, Time Series and Prediction** - DeepLearning.AI
 - **SQL for Data Science** - University of California, Davis
